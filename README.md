@@ -9,9 +9,9 @@ Este repositorio reúne mi experiencia académica tanto teórica como práctica 
 - Hojas de cálculo Excel con ejemplos interactivos que facilitan la comprensión de conceptos complejos.
 - Exploración de diferentes ramas financieras, desde la cobertura con derivados, arbitraje de forwards, hasta la evaluación de inversiones en renta fija.
 # Cómo Utilizar este Repositorio:
-Explora las carpetas temáticas para encontrar modelos específicos en función de tus necesidades e intereses.
-Examina los archivos R para sumergirte en la lógica y el análisis detrás de cada modelo.
-Descarga las hojas de cálculo Excel para interactuar directamente con los ejemplos y experimentar con diferentes escenarios.
+- Explora las carpetas temáticas para encontrar modelos específicos en función de tus necesidades e intereses.
+- Examina los archivos R para sumergirte en la lógica y el análisis detrás de cada modelo.
+- Descarga las hojas de cálculo Excel para interactuar directamente con los ejemplos y experimentar con diferentes escenarios.
 # Contribuye y Comparte:
 Este repositorio es una comunidad en crecimiento. Siéntete libre de clonar, mejorar y compartir tus propios modelos financieros. Juntos, podemos ampliar y enriquecer nuestra comprensión de los conceptos financieros y brindar recursos útiles a la comunidad financiera en general.
 
